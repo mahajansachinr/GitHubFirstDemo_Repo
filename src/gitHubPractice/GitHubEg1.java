@@ -9,9 +9,10 @@ public class GitHubEg1 {
 		int c;
 		c=a+b;
 		int d=b-a;
+		int e = a%b;
 		System.out.println("Addition is :- "+ c);
 		System.out.println("Substraction is "+d);
-		
+		System.out.println("Division is "+e);
 	}
 
 }
