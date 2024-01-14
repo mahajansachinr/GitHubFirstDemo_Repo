@@ -8,8 +8,9 @@ public class GitHubEg1 {
 		int b=20;
 		int c;
 		c=a+b;
+		int d=b-a;
 		System.out.println("Addition is :- "+ c);
-		
+		System.out.println("Substraction is "+d);
 		
 	}
 
